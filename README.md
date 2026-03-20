@@ -26,4 +26,4 @@ Edit images with layers, brush, eraser, fill, magic selection, marquee, and more
 
 ## 🖥️ Getting Started
 
-1. **Enter** the [Pixelfy Editor](https://m19saudi.github.io/pixelfy/)) 
+1. **Enter** the [Pixelfy Editor]((https://m19saudi.github.io/pixelfy/)) 
