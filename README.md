@@ -9,7 +9,7 @@ Edit images with layers, brush, eraser, fill, magic selection, marquee, and more
 
 ## 🎨 Features
 
-- Fully offline, single HTML file editor
+- **Fully offline**, single HTML file editor
 - **Layer management**: add, toggle visibility, reorder
 - **Brush** with live preview, adjustable size and color
 - **Eraser** and **Fill** tools
